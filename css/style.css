@@ -525,7 +525,10 @@ footer {
     display: flex; }
 
   header .nav .navbar .form-inline-active .form-control {
-    width: auto; } }
+    width: auto; }
+
+  main .videos h2 {
+    padding-left: 15px; } }
 @media screen and (max-width: 540px) {
   header .top-nav .top-nav-container .left-part .logo img {
     width: 3.8rem; }
